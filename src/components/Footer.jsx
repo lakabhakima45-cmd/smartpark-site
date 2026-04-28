@@ -25,8 +25,8 @@ function Footer() {
 
       <div className="footer-bottom">
 
-        <div className="footer-logo">
-          <img src="/logo.png" alt="SmartPark" />
+        <div className="logo-smartpark">
+          <img src="/images/logo-smartpark.png" alt="SmartPark" />
         </div>
 
         <p>
