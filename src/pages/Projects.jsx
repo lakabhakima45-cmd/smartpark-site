@@ -3,21 +3,21 @@ import React from "react"
 function Projects() {
   const projects = [
     {
-      image: "/project-city1.jpg",
+      image: "/images/project-city1.jpg",
       type: "Ville dense",
       title: "SmartPark Centre-ville",
       text: "Une solution compacte pensée pour les zones urbaines où l’espace est limité et la demande de stationnement élevée.",
       details: ["Stockage vertical", "Accès QR code", "Réduction circulation interne"],
     },
     {
-      image: "/project-business.jpg",
+      image: "/images/project-business.jpg",
       type: "Entreprise",
       title: "SmartPark Business Hub",
       text: "Un parking automatisé adapté aux bureaux, sièges d’entreprise et espaces professionnels avec accès rapide pour employés et visiteurs.",
       details: ["Abonnements", "Accès 24/7", "Assistance intégrée"],
     },
     {
-      image: "/project-residence.jpg",
+      image: "/images/project-residence.jpg",
       type: "Résidence",
       title: "SmartPark Résidentiel",
       text: "Une solution pour augmenter la capacité de stationnement sans agrandir fortement l’emprise au sol du bâtiment.",

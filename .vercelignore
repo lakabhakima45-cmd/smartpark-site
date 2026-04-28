@@ -1,0 +1,7 @@
+public/smartpark-final.mp4
+*.mp4
+*.mov
+*.avi
+dist
+node_modules
+.git

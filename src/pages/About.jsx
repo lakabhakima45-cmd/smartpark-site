@@ -19,7 +19,7 @@ function About() {
           </div>
 
           <div className="about-hero-media">
-            <img src="/about-hero.jpg" alt="SmartPark vision urbaine" />
+           <img src="/images/about-hero.jpg" alt="SmartPark vision urbaine" />
           </div>
         </div>
       </section>

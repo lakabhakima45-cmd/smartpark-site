@@ -48,7 +48,7 @@ function Home() {
 
           <div className="hero-right">
             <img
-              src="/hero-smartpark.jpg"
+             src="/images/hero-smartpark.jpg"
               alt="Parking SmartPark"
             />
           </div>
@@ -108,7 +108,7 @@ function Home() {
           <div className="solutions-grid">
 
             <article className="solution-card">
-              <img src="/solution-1.jpg" alt="Application SmartPark" />
+             <img src="/images/solution-1.jpg" alt="Application SmartPark" />
               <div>
                 <h3>Application mobile</h3>
                 <p>
@@ -118,7 +118,7 @@ function Home() {
             </article>
 
             <article className="solution-card">
-              <img src="/solution-2.jpg" alt="Capteurs SmartPark" />
+              <img src="/images/solution-2.jpg" alt="Capteurs SmartPark" />
               <div>
                 <h3>Capteurs intelligents</h3>
                 <p>
@@ -128,7 +128,7 @@ function Home() {
             </article>
 
             <article className="solution-card">
-              <img src="/solution-3.jpg" alt="Robotisation SmartPark" />
+             <img src="/images/solution-3.jpg" alt="Robotisation SmartPark" />
               <div>
                 <h3>Robotisation</h3>
                 <p>
@@ -223,9 +223,15 @@ function Home() {
           </div>
 
           <div className="video-box">
-            <video controls preload="metadata" poster="/hero-smartpark.jpg">
-              <source src="/smartpark-final.mp4" type="video/mp4" />
-            </video>
+            <iframe
+  width="100%"
+  height="520"
+  src="https://www.youtube.com/embed/wb4C72kKFGQ"
+  title="SmartPark vidéo démonstration"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
           </div>
 
         </div>
