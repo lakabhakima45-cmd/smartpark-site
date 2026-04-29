@@ -90,7 +90,7 @@ function About() {
       <section className="about-system">
         <div className="container about-system-grid">
           <div className="about-system-image">
-            <img src="/about-system.jpg" alt="Structure SmartPark" />
+           <img src="/images/about-system.jpg" alt="Structure SmartPark" />
           </div>
 
           <div className="about-system-copy">
